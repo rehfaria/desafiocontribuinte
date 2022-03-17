@@ -55,9 +55,8 @@ public class Main {
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
-		
-		
-		//definindo o tamanho do meu vetor
+
+		// definindo o tamanho do meu vetor
 
 		int contribuinte;
 
@@ -101,8 +100,8 @@ public class Main {
 			System.out.println();
 
 		}
-		
-		//usando as funçoes
+
+		// usando as funçoes
 
 		for (int i = 0; i < contribuinte; i++) {
 
